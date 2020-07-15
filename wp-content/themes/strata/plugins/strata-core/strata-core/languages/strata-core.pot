@@ -1,0 +1,2628 @@
+# Copyright (C) 2019 Qode Themes
+# This file is distributed under the same license as the Strata Core plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Strata Core 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/strata-core\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-10-10T15:45:56+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.3.0\n"
+"X-Domain: strata-core\n"
+
+#. Plugin Name of the plugin
+msgid "Strata Core"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin that adds additional features needed by our theme"
+msgstr ""
+
+#. Author of the plugin
+msgid "Qode Themes"
+msgstr ""
+
+#: modules/ajax_mail.php:41
+msgid "The reCAPTCHA wasn't entered correctly. Go back and try it again. (reCAPTCHA said: %s)"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:11
+msgid "Link post format"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:18
+msgid "Link"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:26
+msgid "Quote post format"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:33
+msgid "Quote"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:41
+msgid "Video post format"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:48
+msgid "Choose Video Type"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:53
+#: modules/custom-fields.php:1726
+#: modules/custom-fields.php:1807
+msgid "Video ID"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:59
+#: modules/custom-fields.php:1730
+#: modules/custom-fields.php:1811
+msgid "Video image"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:65
+#: modules/custom-fields.php:1735
+#: modules/custom-fields.php:1816
+msgid "Video webm"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:71
+#: modules/custom-fields.php:1739
+#: modules/custom-fields.php:1820
+msgid "Video mp4"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:77
+#: modules/custom-fields.php:1743
+#: modules/custom-fields.php:1824
+msgid "Video ogv"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:85
+msgid "Audio post format"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:92
+msgid "Audio Link"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:141
+msgid "Upload File"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:149
+msgid "YouTube"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:154
+#: modules/custom-fields.php:1721
+#: modules/custom-fields.php:1802
+msgid "Vimeo"
+msgstr ""
+
+#: modules/custom-fields-post-formats.php:159
+msgid "Self Hosted"
+msgstr ""
+
+#: modules/custom-fields.php:1162
+#: modules/qode-options.php:2551
+#: modules/qode-options.php:2614
+msgid "No Sidebar"
+msgstr ""
+
+#: modules/custom-fields.php:1163
+#: modules/qode-options.php:2552
+#: modules/qode-options.php:2615
+msgid "Sidebar 1/3 right"
+msgstr ""
+
+#: modules/custom-fields.php:1164
+#: modules/qode-options.php:2553
+#: modules/qode-options.php:2616
+msgid "Sidebar 1/4 right"
+msgstr ""
+
+#: modules/custom-fields.php:1165
+#: modules/qode-options.php:2554
+#: modules/qode-options.php:2617
+msgid "Sidebar 1/3 left"
+msgstr ""
+
+#: modules/custom-fields.php:1166
+#: modules/qode-options.php:2555
+#: modules/qode-options.php:2618
+msgid "Sidebar 1/4 left"
+msgstr ""
+
+#: modules/custom-fields.php:1180
+#: modules/custom-fields.php:1306
+#: modules/custom-fields.php:1335
+#: modules/qode-custom-taxonomy-field.php:14
+#: modules/qode-custom-taxonomy-field.php:25
+#: modules/qode-options.php:593
+#: modules/qode-options.php:620
+#: modules/qode-options.php:631
+#: modules/qode-options.php:639
+#: modules/qode-options.php:648
+#: modules/qode-options.php:712
+#: modules/qode-options.php:1271
+#: modules/qode-options.php:1282
+#: modules/qode-options.php:1293
+#: modules/qode-options.php:1304
+#: modules/qode-options.php:1315
+#: modules/qode-options.php:1447
+#: modules/qode-options.php:1847
+#: modules/qode-options.php:1860
+#: modules/qode-options.php:1867
+#: modules/qode-options.php:1917
+#: modules/qode-options.php:1927
+#: modules/qode-options.php:1939
+#: modules/qode-options.php:1964
+#: modules/qode-options.php:2397
+#: modules/qode-options.php:2484
+#: modules/qode-options.php:2531
+#: modules/qode-options.php:2565
+#: modules/qode-options.php:2646
+#: modules/qode-options.php:2670
+#: modules/qode-options.php:2679
+#: modules/qode-options.php:2700
+#: modules/qode-options.php:2728
+#: modules/qode-options.php:2790
+#: modules/qode-options.php:2808
+#: modules/qode-options.php:2858
+#: modules/qode-options.php:2869
+#: modules/qode-options.php:2886
+#: modules/qode-options.php:2907
+#: modules/qode-options.php:2924
+#: modules/qode-options.php:2941
+#: modules/qode-options.php:2958
+#: modules/qode-options.php:2975
+msgid "No"
+msgstr ""
+
+#: modules/custom-fields.php:1181
+#: modules/custom-fields.php:1307
+#: modules/custom-fields.php:1336
+#: modules/qode-custom-taxonomy-field.php:15
+#: modules/qode-custom-taxonomy-field.php:26
+#: modules/qode-options.php:594
+#: modules/qode-options.php:621
+#: modules/qode-options.php:630
+#: modules/qode-options.php:640
+#: modules/qode-options.php:649
+#: modules/qode-options.php:713
+#: modules/qode-options.php:1272
+#: modules/qode-options.php:1283
+#: modules/qode-options.php:1294
+#: modules/qode-options.php:1305
+#: modules/qode-options.php:1316
+#: modules/qode-options.php:1448
+#: modules/qode-options.php:1848
+#: modules/qode-options.php:1861
+#: modules/qode-options.php:1868
+#: modules/qode-options.php:1916
+#: modules/qode-options.php:1928
+#: modules/qode-options.php:1938
+#: modules/qode-options.php:1965
+#: modules/qode-options.php:2398
+#: modules/qode-options.php:2485
+#: modules/qode-options.php:2532
+#: modules/qode-options.php:2566
+#: modules/qode-options.php:2647
+#: modules/qode-options.php:2671
+#: modules/qode-options.php:2680
+#: modules/qode-options.php:2701
+#: modules/qode-options.php:2729
+#: modules/qode-options.php:2791
+#: modules/qode-options.php:2809
+#: modules/qode-options.php:2859
+#: modules/qode-options.php:2870
+#: modules/qode-options.php:2887
+#: modules/qode-options.php:2908
+#: modules/qode-options.php:2925
+#: modules/qode-options.php:2942
+#: modules/qode-options.php:2959
+#: modules/qode-options.php:2976
+msgid "Yes"
+msgstr ""
+
+#: modules/custom-fields.php:1216
+#: modules/qode-options.php:2460
+msgid "Portfolio small images"
+msgstr ""
+
+#: modules/custom-fields.php:1217
+#: modules/qode-options.php:2461
+msgid "Portfolio small slider"
+msgstr ""
+
+#: modules/custom-fields.php:1218
+#: modules/qode-options.php:2462
+msgid "Portfolio big images"
+msgstr ""
+
+#: modules/custom-fields.php:1219
+#: modules/qode-options.php:2463
+msgid "Portfolio big slider"
+msgstr ""
+
+#: modules/custom-fields.php:1220
+#: modules/qode-options.php:2464
+msgid "Portfolio custom"
+msgstr ""
+
+#: modules/custom-fields.php:1221
+#: modules/qode-options.php:2465
+msgid "Portfolio full width custom"
+msgstr ""
+
+#: modules/custom-fields.php:1222
+#: modules/qode-options.php:2466
+msgid "Portfolio gallery"
+msgstr ""
+
+#: modules/custom-fields.php:1236
+msgid "2 Columns"
+msgstr ""
+
+#: modules/custom-fields.php:1237
+msgid "3 Columns"
+msgstr ""
+
+#: modules/custom-fields.php:1238
+msgid "4 Columns"
+msgstr ""
+
+#: modules/custom-fields.php:1288
+#: modules/custom-fields.php:1320
+#: modules/qode-options.php:580
+#: modules/qode-options.php:1838
+msgid "No animation"
+msgstr ""
+
+#: modules/custom-fields.php:1289
+msgid "Up / Down"
+msgstr ""
+
+#: modules/custom-fields.php:1290
+#: modules/custom-fields.php:1417
+#: modules/qode-options.php:582
+msgid "Fade"
+msgstr ""
+
+#: modules/custom-fields.php:1291
+#: modules/qode-options.php:583
+msgid "Up/Down (In) / Fade (Out)"
+msgstr ""
+
+#: modules/custom-fields.php:1292
+msgid "Left / Right"
+msgstr ""
+
+#: modules/custom-fields.php:1321
+#: modules/qode-options.php:1839
+msgid "Text right to left"
+msgstr ""
+
+#: modules/custom-fields.php:1322
+#: modules/qode-options.php:1840
+msgid "Title area top to bottom"
+msgstr ""
+
+#: modules/custom-fields.php:1337
+#: modules/qode-options.php:1869
+msgid "Yes, with zoom out"
+msgstr ""
+
+#: modules/custom-fields.php:1350
+#: modules/qode-options.php:1340
+msgid "Light"
+msgstr ""
+
+#: modules/custom-fields.php:1351
+#: modules/qode-options.php:1341
+msgid "Dark"
+msgstr ""
+
+#: modules/custom-fields.php:1377
+#: modules/custom-fields.php:1712
+#: modules/custom-fields.php:1793
+msgid "Image"
+msgstr ""
+
+#: modules/custom-fields.php:1382
+msgid "Video"
+msgstr ""
+
+#: modules/custom-fields.php:1416
+msgid "Flip"
+msgstr ""
+
+#: modules/custom-fields.php:1474
+#: modules/qode-options.php:567
+#: modules/qode-options.php:737
+#: modules/qode-options.php:790
+#: modules/qode-options.php:843
+#: modules/qode-options.php:897
+#: modules/qode-options.php:951
+#: modules/qode-options.php:1005
+#: modules/qode-options.php:1061
+#: modules/qode-options.php:1165
+#: modules/qode-options.php:1217
+#: modules/qode-options.php:1507
+#: modules/qode-options.php:1563
+#: modules/qode-options.php:1618
+#: modules/qode-options.php:1672
+#: modules/qode-options.php:1726
+#: modules/qode-options.php:1780
+#: modules/qode-options.php:2073
+#: modules/qode-options.php:2146
+msgid "Default"
+msgstr ""
+
+#: modules/custom-fields.php:1491
+msgid "Normal"
+msgstr ""
+
+#: modules/custom-fields.php:1492
+msgid "Italic"
+msgstr ""
+
+#: modules/custom-fields.php:1506
+#: modules/qode-options.php:763
+#: modules/qode-options.php:816
+#: modules/qode-options.php:870
+#: modules/qode-options.php:924
+#: modules/qode-options.php:978
+#: modules/qode-options.php:1032
+#: modules/qode-options.php:1088
+#: modules/qode-options.php:1131
+#: modules/qode-options.php:1192
+#: modules/qode-options.php:1240
+#: modules/qode-options.php:1534
+#: modules/qode-options.php:1590
+#: modules/qode-options.php:1644
+#: modules/qode-options.php:1698
+#: modules/qode-options.php:1752
+#: modules/qode-options.php:1806
+#: modules/qode-options.php:2100
+#: modules/qode-options.php:2173
+msgid "200"
+msgstr ""
+
+#: modules/custom-fields.php:1507
+#: modules/qode-options.php:764
+#: modules/qode-options.php:817
+#: modules/qode-options.php:871
+#: modules/qode-options.php:925
+#: modules/qode-options.php:979
+#: modules/qode-options.php:1033
+#: modules/qode-options.php:1089
+#: modules/qode-options.php:1132
+#: modules/qode-options.php:1193
+#: modules/qode-options.php:1241
+#: modules/qode-options.php:1535
+#: modules/qode-options.php:1591
+#: modules/qode-options.php:1645
+#: modules/qode-options.php:1699
+#: modules/qode-options.php:1753
+#: modules/qode-options.php:1807
+#: modules/qode-options.php:2101
+#: modules/qode-options.php:2174
+msgid "300"
+msgstr ""
+
+#: modules/custom-fields.php:1508
+#: modules/qode-options.php:765
+#: modules/qode-options.php:818
+#: modules/qode-options.php:872
+#: modules/qode-options.php:926
+#: modules/qode-options.php:980
+#: modules/qode-options.php:1034
+#: modules/qode-options.php:1090
+#: modules/qode-options.php:1133
+#: modules/qode-options.php:1194
+#: modules/qode-options.php:1242
+#: modules/qode-options.php:1536
+#: modules/qode-options.php:1592
+#: modules/qode-options.php:1646
+#: modules/qode-options.php:1700
+#: modules/qode-options.php:1754
+#: modules/qode-options.php:1808
+#: modules/qode-options.php:2102
+#: modules/qode-options.php:2175
+msgid "400"
+msgstr ""
+
+#: modules/custom-fields.php:1509
+#: modules/qode-options.php:767
+#: modules/qode-options.php:820
+#: modules/qode-options.php:874
+#: modules/qode-options.php:928
+#: modules/qode-options.php:982
+#: modules/qode-options.php:1036
+#: modules/qode-options.php:1092
+#: modules/qode-options.php:1135
+#: modules/qode-options.php:1196
+#: modules/qode-options.php:1244
+#: modules/qode-options.php:1538
+#: modules/qode-options.php:1594
+#: modules/qode-options.php:1648
+#: modules/qode-options.php:1702
+#: modules/qode-options.php:1756
+#: modules/qode-options.php:1810
+#: modules/qode-options.php:2104
+#: modules/qode-options.php:2177
+msgid "600"
+msgstr ""
+
+#: modules/custom-fields.php:1510
+#: modules/qode-options.php:769
+#: modules/qode-options.php:822
+#: modules/qode-options.php:876
+#: modules/qode-options.php:930
+#: modules/qode-options.php:984
+#: modules/qode-options.php:1038
+#: modules/qode-options.php:1094
+#: modules/qode-options.php:1137
+#: modules/qode-options.php:1198
+#: modules/qode-options.php:1246
+#: modules/qode-options.php:1540
+#: modules/qode-options.php:1596
+#: modules/qode-options.php:1650
+#: modules/qode-options.php:1704
+#: modules/qode-options.php:1758
+#: modules/qode-options.php:1812
+#: modules/qode-options.php:2106
+#: modules/qode-options.php:2179
+msgid "800"
+msgstr ""
+
+#: modules/custom-fields.php:1525
+#: modules/custom-fields.php:1541
+#: modules/qode-options.php:1895
+msgid "Left"
+msgstr ""
+
+#: modules/custom-fields.php:1526
+#: modules/custom-fields.php:1542
+#: modules/qode-options.php:1352
+#: modules/qode-options.php:1896
+msgid "Center"
+msgstr ""
+
+#: modules/custom-fields.php:1527
+msgid "Right"
+msgstr ""
+
+#: modules/custom-fields.php:1585
+msgid "Self"
+msgstr ""
+
+#: modules/custom-fields.php:1586
+msgid "Blank"
+msgstr ""
+
+#: modules/custom-fields.php:1587
+msgid "Parent"
+msgstr ""
+
+#: modules/custom-fields.php:1672
+msgid "SEO Title"
+msgstr ""
+
+#: modules/custom-fields.php:1679
+msgid "SEO Keywords"
+msgstr ""
+
+#: modules/custom-fields.php:1686
+msgid "SEO Description"
+msgstr ""
+
+#: modules/custom-fields.php:1704
+#: modules/custom-fields.php:1750
+#: modules/custom-fields.php:1785
+#: modules/custom-fields.php:1855
+msgid "Order number"
+msgstr ""
+
+#: modules/custom-fields.php:1708
+#: modules/custom-fields.php:1789
+msgid "Image/Video title (only for gallery layout - Portfolio Style 6)"
+msgstr ""
+
+#: modules/custom-fields.php:1717
+#: modules/custom-fields.php:1798
+msgid "Video type"
+msgstr ""
+
+#: modules/custom-fields.php:1720
+#: modules/custom-fields.php:1801
+msgid "Youtube"
+msgstr ""
+
+#: modules/custom-fields.php:1722
+#: modules/custom-fields.php:1803
+msgid "Self hosted"
+msgstr ""
+
+#: modules/custom-fields.php:1754
+#: modules/custom-fields.php:1859
+msgid "Option Label"
+msgstr ""
+
+#: modules/custom-fields.php:1758
+#: modules/custom-fields.php:1863
+msgid "Option Value"
+msgstr ""
+
+#: modules/custom-fields.php:1762
+#: modules/custom-fields.php:1867
+msgid "Option Url"
+msgstr ""
+
+#: modules/custom-fields.php:1769
+msgid "Portfolio images/videos"
+msgstr ""
+
+#: modules/custom-fields.php:1827
+msgid "Remove portfolio image/video"
+msgstr ""
+
+#: modules/custom-fields.php:1836
+msgid "Add portfolio image/video"
+msgstr ""
+
+#: modules/custom-fields.php:1841
+msgid "Option Items"
+msgstr ""
+
+#: modules/custom-fields.php:1871
+msgid "Remove portfolio option"
+msgstr ""
+
+#: modules/custom-fields.php:1881
+msgid "Add portfolio option"
+msgstr ""
+
+#: modules/custom-fields.php:1888
+msgid "Portfolio Date"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:137
+#: modules/import/class.wordpress-importer.php:188
+#: modules/import/class.wordpress-importer.php:192
+#: modules/import/class.wordpress-importer.php:201
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:172
+msgid "All done."
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:172
+msgid "Have fun!"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:173
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:193
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:209
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:234
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:260
+msgid "Assign Authors"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:261
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:263
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:273
+msgid "Import Attachments"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:276
+msgid "Download and import file attachments"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:280
+msgid "Submit"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:293
+msgid "Import author:"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:304
+msgid "or create new user with login name:"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:307
+msgid "as a new user:"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:315
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:317
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:318
+msgid "- Select -"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:368
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:420
+msgid "Failed to import category %s"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:464
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:514
+#: modules/import/class.wordpress-importer.php:738
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:604
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:641
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:703
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:869
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:876
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:939
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:952
+msgid "Invalid file type"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:996
+msgid "Remote server did not respond"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:1002
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:1009
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:1014
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:1020
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:1121
+msgid "Import WordPress"
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:1128
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: modules/import/class.wordpress-importer.php:1143
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: modules/import/parsers.php:42
+#: modules/import/parsers.php:72
+#: modules/import/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: modules/import/parsers.php:43
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: modules/import/parsers.php:84
+#: modules/import/parsers.php:89
+#: modules/import/parsers.php:279
+#: modules/import/parsers.php:468
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: modules/import/qode-import.php:40
+#: modules/import/qode-import.php:59
+msgid "Content imported successfully"
+msgstr ""
+
+#: modules/import/qode-import.php:57
+msgid "An Error Occurred During Import"
+msgstr ""
+
+#: modules/import/qode-import.php:71
+msgid "Widgets imported successfully"
+msgstr ""
+
+#: modules/import/qode-import.php:90
+msgid "Custom sidebars imported successfully"
+msgstr ""
+
+#: modules/import/qode-import.php:96
+msgid "Options imported successfully"
+msgstr ""
+
+#: modules/import/qode-import.php:129
+msgid "File doesn't exist"
+msgstr ""
+
+#: modules/import/qode-import.php:172
+msgid "Qode Import"
+msgstr ""
+
+#: modules/import/qode-import.php:180
+msgid "Strata - One-Click Import Demo Content"
+msgstr ""
+
+#: modules/import/qode-import.php:188
+msgid "Import"
+msgstr ""
+
+#: modules/import/qode-import.php:191
+msgid "Please Select"
+msgstr ""
+
+#: modules/import/qode-import.php:192
+#: modules/shortcodes/shortcodes.php:1865
+msgid "All"
+msgstr ""
+
+#: modules/import/qode-import.php:193
+msgid "Content"
+msgstr ""
+
+#: modules/import/qode-import.php:194
+msgid "Widgets"
+msgstr ""
+
+#: modules/import/qode-import.php:195
+#: modules/qode-options.php:339
+msgid "Options"
+msgstr ""
+
+#: modules/import/qode-import.php:201
+msgid "Import attachments"
+msgstr ""
+
+#: modules/import/qode-import.php:207
+msgid "The import process may take some time. Please be patient."
+msgstr ""
+
+#: modules/import/qode-import.php:218
+msgid "Important notes:"
+msgstr ""
+
+#: modules/import/qode-import.php:219
+msgid "Please note that import process will take time needed to download all attachments from demo web site."
+msgstr ""
+
+#: modules/import/qode-import.php:220
+msgid "If you plan to use shop, please install WooCommerce before you run import."
+msgstr ""
+
+#: modules/qode-custom-post-types.php:15
+#: modules/qode-options.php:2451
+msgid "Portfolio"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:16
+msgid "Portfolio Item"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:17
+msgid "New Portfolio Item"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:18
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:19
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:33
+msgid "Testimonials"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:34
+msgid "Testimonial"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:35
+msgid "New Testimonial"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:36
+msgid "Add New Testimonial"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:37
+msgid "Edit Testimonial"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:54
+#: modules/qode-custom-post-types.php:55
+msgid "Qode Slider"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:56
+msgid "Slides"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:57
+#: modules/qode-custom-post-types.php:60
+msgid "Add New Slide"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:58
+msgid "Slide"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:59
+msgid "New Slide"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:61
+msgid "Edit Slide"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:79
+#: modules/qode-custom-post-types.php:80
+msgid "Qode Carousel"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:81
+msgid "Carousel Items"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:82
+#: modules/qode-custom-post-types.php:85
+msgid "Add New Carousel Item"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:83
+msgid "Carousel Item"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:84
+msgid "New Carousel Item"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:86
+msgid "Edit Carousel Item"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:104
+#: modules/qode-custom-post-types.php:114
+msgid "Portfolio Categories"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:105
+msgid "Portfolio Category"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:106
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:107
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:108
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:109
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:110
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:111
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:112
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:113
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:128
+#: modules/qode-custom-post-types.php:138
+msgid "Testimonials Categories"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:129
+msgid "Testimonial Category"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:130
+msgid "Search Testimonials Categories"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:131
+msgid "All Testimonials Categories"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:132
+msgid "Parent Testimonial Category"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:133
+msgid "Parent Testimonial Category:"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:134
+msgid "Edit Testimonials Category"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:135
+msgid "Update Testimonials Category"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:136
+msgid "Add New Testimonials Category"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:137
+msgid "New Testimonials Category Name"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:153
+#: modules/qode-custom-post-types.php:163
+msgid "Sliders"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:154
+msgid "Slider"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:155
+msgid "Search Sliders"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:156
+msgid "All Sliders"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:157
+msgid "Parent Slider"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:158
+msgid "Parent Slider:"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:159
+msgid "Edit Slider"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:160
+msgid "Update Slider"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:161
+msgid "Add New Slider"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:162
+msgid "New Slider Name"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:178
+#: modules/qode-custom-post-types.php:188
+msgid "Carousels"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:179
+msgid "Carousel"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:180
+msgid "Search Carousels"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:181
+msgid "All Carousels"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:182
+msgid "Parent Carousel"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:183
+msgid "Parent Carousel:"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:184
+msgid "Edit Carousel"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:185
+msgid "Update Carousel"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:186
+msgid "Add New Carousel"
+msgstr ""
+
+#: modules/qode-custom-post-types.php:187
+msgid "New Carousel Name"
+msgstr ""
+
+#: modules/qode-custom-taxonomy-field.php:10
+msgid "Effect on header (dark/light style)"
+msgstr ""
+
+#: modules/qode-custom-taxonomy-field.php:21
+msgid "Show prev/next thumbs"
+msgstr ""
+
+#: modules/qode-custom-taxonomy-field.php:32
+msgid "Slider shortcode"
+msgstr ""
+
+#: modules/qode-custom-taxonomy-field.php:36
+msgid "Use this shortcode to insert it on page"
+msgstr ""
+
+#: modules/qode-custom-taxonomy-field.php:64
+msgid "Name"
+msgstr ""
+
+#: modules/qode-custom-taxonomy-field.php:65
+msgid "Shortcode"
+msgstr ""
+
+#: modules/qode-custom-taxonomy-field.php:66
+msgid "Slug"
+msgstr ""
+
+#: modules/qode-custom-taxonomy-field.php:67
+msgid "Posts"
+msgstr ""
+
+#: modules/qode-like.php:97
+#: modules/qode-like.php:112
+msgid "Like this"
+msgstr ""
+
+#: modules/qode-like.php:100
+#: modules/qode-like.php:115
+msgid "You already like this!"
+msgstr ""
+
+#: modules/qode-options.php:332
+msgid "Qode Options"
+msgstr ""
+
+#: modules/qode-options.php:350
+msgid "Settings saved."
+msgstr ""
+
+#: modules/qode-options.php:371
+#: modules/qode-options.php:374
+msgid "Reset to defaults"
+msgstr ""
+
+#: modules/qode-options.php:379
+#: modules/qode-options.php:3024
+msgid "Save Changes"
+msgstr ""
+
+#: modules/qode-options.php:413
+msgid "Global options"
+msgstr ""
+
+#: modules/qode-options.php:418
+msgid "First main color"
+msgstr ""
+
+#: modules/qode-options.php:421
+msgid "Main color (also Gradient top)"
+msgstr ""
+
+#: modules/qode-options.php:424
+msgid "Default main color"
+msgstr ""
+
+#: modules/qode-options.php:429
+#: modules/qode-options.php:457
+msgid "Gradient bottom"
+msgstr ""
+
+#: modules/qode-options.php:432
+#: modules/qode-options.php:460
+msgid "Default bottom gradient color"
+msgstr ""
+
+#: modules/qode-options.php:437
+#: modules/qode-options.php:465
+msgid "Gradient Border"
+msgstr ""
+
+#: modules/qode-options.php:440
+msgid "Default gradient border color"
+msgstr ""
+
+#: modules/qode-options.php:446
+msgid "Second main color"
+msgstr ""
+
+#: modules/qode-options.php:449
+msgid "Second main color (also Gradient top)"
+msgstr ""
+
+#: modules/qode-options.php:452
+msgid "Default second main color"
+msgstr ""
+
+#: modules/qode-options.php:468
+msgid "Default second border color"
+msgstr ""
+
+#: modules/qode-options.php:474
+msgid "Third main color"
+msgstr ""
+
+#: modules/qode-options.php:478
+msgid "Default third main color"
+msgstr ""
+
+#: modules/qode-options.php:483
+msgid "Fourth main color"
+msgstr ""
+
+#: modules/qode-options.php:487
+msgid "Default fourth main color"
+msgstr ""
+
+#: modules/qode-options.php:492
+msgid "Background color (content)"
+msgstr ""
+
+#: modules/qode-options.php:496
+msgid "Default background color"
+msgstr ""
+
+#: modules/qode-options.php:501
+msgid "Background color (body)"
+msgstr ""
+
+#: modules/qode-options.php:505
+msgid "Default boxed background color"
+msgstr ""
+
+#: modules/qode-options.php:510
+msgid "Background boxes color"
+msgstr ""
+
+#: modules/qode-options.php:514
+msgid "Background color for boxes (blog, portfolio...)"
+msgstr ""
+
+#: modules/qode-options.php:519
+msgid "Highlight color"
+msgstr ""
+
+#: modules/qode-options.php:523
+msgid "Default highlight color"
+msgstr ""
+
+#: modules/qode-options.php:528
+msgid "Selection color"
+msgstr ""
+
+#: modules/qode-options.php:532
+msgid "Default selection color"
+msgstr ""
+
+#: modules/qode-options.php:537
+msgid "Background image"
+msgstr ""
+
+#: modules/qode-options.php:546
+msgid "Pattern background image"
+msgstr ""
+
+#: modules/qode-options.php:555
+msgid "Favicon image"
+msgstr ""
+
+#: modules/qode-options.php:564
+msgid "Google fonts"
+msgstr ""
+
+#: modules/qode-options.php:573
+msgid "Choose Font"
+msgstr ""
+
+#: modules/qode-options.php:577
+msgid "Page transition"
+msgstr ""
+
+#: modules/qode-options.php:581
+msgid "Up/Down"
+msgstr ""
+
+#: modules/qode-options.php:584
+msgid "Left/Right"
+msgstr ""
+
+#: modules/qode-options.php:586
+msgid "In order for animation to work properly, you must choose \"Post name\" in permalinks settings"
+msgstr ""
+
+#: modules/qode-options.php:590
+msgid "Boxed"
+msgstr ""
+
+#: modules/qode-options.php:599
+msgid "Loading animation"
+msgstr ""
+
+#: modules/qode-options.php:602
+#: modules/qode-options.php:2474
+#: modules/qode-options.php:2574
+msgid "On"
+msgstr ""
+
+#: modules/qode-options.php:603
+#: modules/qode-options.php:2475
+#: modules/qode-options.php:2575
+msgid "Off"
+msgstr ""
+
+#: modules/qode-options.php:608
+msgid "Loading image"
+msgstr ""
+
+#: modules/qode-options.php:617
+msgid "Smooth scroll"
+msgstr ""
+
+#: modules/qode-options.php:622
+msgid "Yes (but not on Mac devices)"
+msgstr ""
+
+#: modules/qode-options.php:627
+msgid "Responsiveness"
+msgstr ""
+
+#: modules/qode-options.php:636
+msgid "Show back button"
+msgstr ""
+
+#: modules/qode-options.php:645
+msgid "Elements animation on mobile/touch devices"
+msgstr ""
+
+#: modules/qode-options.php:654
+msgid "Google Analytics Account ID"
+msgstr ""
+
+#: modules/qode-options.php:660
+msgid "Google Maps API key"
+msgstr ""
+
+#: modules/qode-options.php:666
+msgid "List of internal URLs loaded without AJAX (separated with comma)"
+msgstr ""
+
+#: modules/qode-options.php:675
+msgid "Custom css"
+msgstr ""
+
+#: modules/qode-options.php:684
+msgid "Custom js"
+msgstr ""
+
+#: modules/qode-options.php:689
+msgid "jQuery selector is \"$j\" because of the conflict mode"
+msgstr ""
+
+#: modules/qode-options.php:693
+msgid "Meta Keywords"
+msgstr ""
+
+#: modules/qode-options.php:701
+msgid "Meta Description"
+msgstr ""
+
+#: modules/qode-options.php:709
+msgid "Disable Qode SEO"
+msgstr ""
+
+#: modules/qode-options.php:721
+msgid "General font options"
+msgstr ""
+
+#: modules/qode-options.php:725
+msgid "Headings"
+msgstr ""
+
+#: modules/qode-options.php:727
+msgid "H1 style"
+msgstr ""
+
+#: modules/qode-options.php:730
+#: modules/qode-options.php:783
+#: modules/qode-options.php:836
+#: modules/qode-options.php:890
+#: modules/qode-options.php:944
+#: modules/qode-options.php:998
+#: modules/qode-options.php:1054
+#: modules/qode-options.php:1109
+#: modules/qode-options.php:1158
+#: modules/qode-options.php:1210
+#: modules/qode-options.php:1495
+#: modules/qode-options.php:1551
+#: modules/qode-options.php:1606
+#: modules/qode-options.php:1660
+#: modules/qode-options.php:1714
+#: modules/qode-options.php:1768
+#: modules/qode-options.php:2038
+#: modules/qode-options.php:2061
+#: modules/qode-options.php:2139
+#: modules/qode-options.php:2201
+#: modules/qode-options.php:2216
+msgid "Color"
+msgstr ""
+
+#: modules/qode-options.php:735
+#: modules/qode-options.php:788
+#: modules/qode-options.php:841
+#: modules/qode-options.php:895
+#: modules/qode-options.php:949
+#: modules/qode-options.php:1003
+#: modules/qode-options.php:1059
+#: modules/qode-options.php:1163
+#: modules/qode-options.php:1215
+#: modules/qode-options.php:1505
+#: modules/qode-options.php:1561
+#: modules/qode-options.php:1616
+#: modules/qode-options.php:1670
+#: modules/qode-options.php:1724
+#: modules/qode-options.php:1778
+#: modules/qode-options.php:2071
+#: modules/qode-options.php:2144
+msgid "Font family"
+msgstr ""
+
+#: modules/qode-options.php:744
+#: modules/qode-options.php:797
+#: modules/qode-options.php:850
+#: modules/qode-options.php:904
+#: modules/qode-options.php:958
+#: modules/qode-options.php:1012
+#: modules/qode-options.php:1068
+#: modules/qode-options.php:1172
+#: modules/qode-options.php:1224
+#: modules/qode-options.php:1514
+#: modules/qode-options.php:1570
+#: modules/qode-options.php:1625
+#: modules/qode-options.php:1679
+#: modules/qode-options.php:1733
+#: modules/qode-options.php:1787
+#: modules/qode-options.php:2080
+#: modules/qode-options.php:2153
+#: modules/qode-options.php:2206
+msgid "Font size (px)"
+msgstr ""
+
+#: modules/qode-options.php:748
+#: modules/qode-options.php:801
+#: modules/qode-options.php:854
+#: modules/qode-options.php:908
+#: modules/qode-options.php:962
+#: modules/qode-options.php:1016
+#: modules/qode-options.php:1072
+#: modules/qode-options.php:1176
+#: modules/qode-options.php:1518
+#: modules/qode-options.php:1574
+#: modules/qode-options.php:1629
+#: modules/qode-options.php:1683
+#: modules/qode-options.php:1737
+#: modules/qode-options.php:1791
+#: modules/qode-options.php:2084
+#: modules/qode-options.php:2157
+msgid "Line height (px)"
+msgstr ""
+
+#: modules/qode-options.php:752
+#: modules/qode-options.php:805
+#: modules/qode-options.php:858
+#: modules/qode-options.php:912
+#: modules/qode-options.php:966
+#: modules/qode-options.php:1020
+#: modules/qode-options.php:1076
+#: modules/qode-options.php:1119
+#: modules/qode-options.php:1180
+#: modules/qode-options.php:1228
+#: modules/qode-options.php:1522
+#: modules/qode-options.php:1578
+#: modules/qode-options.php:1633
+#: modules/qode-options.php:1687
+#: modules/qode-options.php:1741
+#: modules/qode-options.php:1795
+#: modules/qode-options.php:2088
+#: modules/qode-options.php:2161
+msgid "Font style"
+msgstr ""
+
+#: modules/qode-options.php:755
+#: modules/qode-options.php:808
+#: modules/qode-options.php:861
+#: modules/qode-options.php:915
+#: modules/qode-options.php:969
+#: modules/qode-options.php:1023
+#: modules/qode-options.php:1079
+#: modules/qode-options.php:1122
+#: modules/qode-options.php:1183
+#: modules/qode-options.php:1231
+#: modules/qode-options.php:1525
+#: modules/qode-options.php:1581
+#: modules/qode-options.php:1636
+#: modules/qode-options.php:1690
+#: modules/qode-options.php:1744
+#: modules/qode-options.php:1798
+#: modules/qode-options.php:2091
+#: modules/qode-options.php:2164
+msgid "normal"
+msgstr ""
+
+#: modules/qode-options.php:756
+#: modules/qode-options.php:809
+#: modules/qode-options.php:862
+#: modules/qode-options.php:916
+#: modules/qode-options.php:970
+#: modules/qode-options.php:1024
+#: modules/qode-options.php:1080
+#: modules/qode-options.php:1123
+#: modules/qode-options.php:1184
+#: modules/qode-options.php:1232
+#: modules/qode-options.php:1526
+#: modules/qode-options.php:1582
+#: modules/qode-options.php:1637
+#: modules/qode-options.php:1691
+#: modules/qode-options.php:1745
+#: modules/qode-options.php:1799
+#: modules/qode-options.php:2092
+#: modules/qode-options.php:2165
+msgid "italic"
+msgstr ""
+
+#: modules/qode-options.php:760
+#: modules/qode-options.php:813
+#: modules/qode-options.php:867
+#: modules/qode-options.php:921
+#: modules/qode-options.php:975
+#: modules/qode-options.php:1029
+#: modules/qode-options.php:1085
+#: modules/qode-options.php:1128
+#: modules/qode-options.php:1189
+#: modules/qode-options.php:1237
+#: modules/qode-options.php:1531
+#: modules/qode-options.php:1587
+#: modules/qode-options.php:1641
+#: modules/qode-options.php:1695
+#: modules/qode-options.php:1749
+#: modules/qode-options.php:1803
+#: modules/qode-options.php:2097
+#: modules/qode-options.php:2170
+msgid "Font weight"
+msgstr ""
+
+#: modules/qode-options.php:766
+#: modules/qode-options.php:819
+#: modules/qode-options.php:873
+#: modules/qode-options.php:927
+#: modules/qode-options.php:981
+#: modules/qode-options.php:1035
+#: modules/qode-options.php:1091
+#: modules/qode-options.php:1134
+#: modules/qode-options.php:1195
+#: modules/qode-options.php:1243
+#: modules/qode-options.php:1537
+#: modules/qode-options.php:1593
+#: modules/qode-options.php:1647
+#: modules/qode-options.php:1701
+#: modules/qode-options.php:1755
+#: modules/qode-options.php:1809
+#: modules/qode-options.php:2103
+#: modules/qode-options.php:2176
+msgid "500"
+msgstr ""
+
+#: modules/qode-options.php:768
+#: modules/qode-options.php:821
+#: modules/qode-options.php:875
+#: modules/qode-options.php:929
+#: modules/qode-options.php:983
+#: modules/qode-options.php:1037
+#: modules/qode-options.php:1093
+#: modules/qode-options.php:1136
+#: modules/qode-options.php:1197
+#: modules/qode-options.php:1245
+#: modules/qode-options.php:1539
+#: modules/qode-options.php:1595
+#: modules/qode-options.php:1649
+#: modules/qode-options.php:1703
+#: modules/qode-options.php:1757
+#: modules/qode-options.php:1811
+#: modules/qode-options.php:2105
+#: modules/qode-options.php:2178
+msgid "700"
+msgstr ""
+
+#: modules/qode-options.php:770
+#: modules/qode-options.php:823
+#: modules/qode-options.php:877
+#: modules/qode-options.php:931
+#: modules/qode-options.php:985
+#: modules/qode-options.php:1039
+#: modules/qode-options.php:1095
+#: modules/qode-options.php:1138
+#: modules/qode-options.php:1199
+#: modules/qode-options.php:1247
+#: modules/qode-options.php:1541
+#: modules/qode-options.php:1597
+#: modules/qode-options.php:1651
+#: modules/qode-options.php:1705
+#: modules/qode-options.php:1759
+#: modules/qode-options.php:1813
+#: modules/qode-options.php:2107
+#: modules/qode-options.php:2180
+msgid "900"
+msgstr ""
+
+#: modules/qode-options.php:774
+#: modules/qode-options.php:827
+#: modules/qode-options.php:881
+#: modules/qode-options.php:935
+#: modules/qode-options.php:989
+#: modules/qode-options.php:1044
+#: modules/qode-options.php:1827
+msgid "Letter spacing (px)"
+msgstr ""
+
+#: modules/qode-options.php:780
+msgid "H2 style"
+msgstr ""
+
+#: modules/qode-options.php:833
+msgid "H3 style"
+msgstr ""
+
+#: modules/qode-options.php:887
+msgid "H4 style"
+msgstr ""
+
+#: modules/qode-options.php:941
+msgid "H5 style"
+msgstr ""
+
+#: modules/qode-options.php:995
+msgid "H6 style"
+msgstr ""
+
+#: modules/qode-options.php:1049
+#: modules/qode-options.php:2835
+msgid "Text"
+msgstr ""
+
+#: modules/qode-options.php:1051
+msgid "Text style"
+msgstr ""
+
+#: modules/qode-options.php:1100
+msgid "Top/Bottom margin (px)"
+msgstr ""
+
+#: modules/qode-options.php:1106
+msgid "Link style"
+msgstr ""
+
+#: modules/qode-options.php:1114
+#: modules/qode-options.php:2066
+msgid "Hover color"
+msgstr ""
+
+#: modules/qode-options.php:1143
+msgid "Font decoration"
+msgstr ""
+
+#: modules/qode-options.php:1146
+msgid "none"
+msgstr ""
+
+#: modules/qode-options.php:1147
+msgid "underline"
+msgstr ""
+
+#: modules/qode-options.php:1153
+msgid "Page title"
+msgstr ""
+
+#: modules/qode-options.php:1155
+msgid "Page title style"
+msgstr ""
+
+#: modules/qode-options.php:1205
+msgid "Info Data Style"
+msgstr ""
+
+#: modules/qode-options.php:1207
+msgid "Info data style"
+msgstr ""
+
+#: modules/qode-options.php:1251
+#: modules/qode-options.php:2263
+msgid "Icon Color"
+msgstr ""
+
+#: modules/qode-options.php:1261
+msgid "Header and Footer"
+msgstr ""
+
+#: modules/qode-options.php:1265
+msgid "Header"
+msgstr ""
+
+#: modules/qode-options.php:1267
+msgid "Header in grid"
+msgstr ""
+
+#: modules/qode-options.php:1278
+msgid "Show header top area"
+msgstr ""
+
+#: modules/qode-options.php:1289
+msgid "Scroll header top area"
+msgstr ""
+
+#: modules/qode-options.php:1300
+msgid "Enable breadcrumbs"
+msgstr ""
+
+#: modules/qode-options.php:1311
+msgid "Enable Qode search"
+msgstr ""
+
+#: modules/qode-options.php:1322
+msgid "Header bottom appearance"
+msgstr ""
+
+#: modules/qode-options.php:1326
+msgid "Regular"
+msgstr ""
+
+#: modules/qode-options.php:1327
+msgid "Fixed"
+msgstr ""
+
+#: modules/qode-options.php:1328
+#: modules/qode-options.php:1381
+#: modules/qode-options.php:1408
+msgid "Sticky"
+msgstr ""
+
+#: modules/qode-options.php:1329
+msgid "Sticky with menu on bottom"
+msgstr ""
+
+#: modules/qode-options.php:1335
+msgid "Header style"
+msgstr ""
+
+#: modules/qode-options.php:1347
+msgid "Menu position"
+msgstr ""
+
+#: modules/qode-options.php:1351
+msgid "Deafult"
+msgstr ""
+
+#: modules/qode-options.php:1358
+msgid "Top background color"
+msgstr ""
+
+#: modules/qode-options.php:1361
+#: modules/qode-options.php:2221
+#: modules/qode-options.php:2260
+#: modules/qode-options.php:2328
+#: modules/qode-options.php:2404
+msgid "Background Color"
+msgstr ""
+
+#: modules/qode-options.php:1368
+msgid "Bottom background color"
+msgstr ""
+
+#: modules/qode-options.php:1371
+#: modules/qode-options.php:1400
+msgid "Initial"
+msgstr ""
+
+#: modules/qode-options.php:1376
+#: modules/qode-options.php:1404
+msgid "Scrolled (fixed style)"
+msgstr ""
+
+#: modules/qode-options.php:1388
+msgid "Header separator color"
+msgstr ""
+
+#: modules/qode-options.php:1397
+msgid "Transparency"
+msgstr ""
+
+#: modules/qode-options.php:1412
+msgid "Border Initial"
+msgstr ""
+
+#: modules/qode-options.php:1415
+msgid "(from 0 to 1)"
+msgstr ""
+
+#: modules/qode-options.php:1419
+msgid "Logo"
+msgstr ""
+
+#: modules/qode-options.php:1422
+msgid "Logo image - normal"
+msgstr ""
+
+#: modules/qode-options.php:1427
+msgid "Logo image - light"
+msgstr ""
+
+#: modules/qode-options.php:1432
+msgid "Logo image - dark"
+msgstr ""
+
+#: modules/qode-options.php:1437
+msgid "Logo image - sticky header"
+msgstr ""
+
+#: modules/qode-options.php:1444
+msgid "Center logo"
+msgstr ""
+
+#: modules/qode-options.php:1453
+msgid "Header height"
+msgstr ""
+
+#: modules/qode-options.php:1456
+msgid "Initial (px)"
+msgstr ""
+
+#: modules/qode-options.php:1460
+msgid "Scrolled - fixed style (px)"
+msgstr ""
+
+#: modules/qode-options.php:1464
+msgid "Sticky (px)"
+msgstr ""
+
+#: modules/qode-options.php:1470
+msgid "Scroll amount for sticky appear (px)"
+msgstr ""
+
+#: modules/qode-options.php:1478
+msgid "Dropdown main menu"
+msgstr ""
+
+#: modules/qode-options.php:1481
+#: modules/qode-options.php:1822
+#: modules/qode-options.php:1852
+#: modules/qode-options.php:2004
+#: modules/qode-options.php:2019
+#: modules/qode-options.php:2186
+#: modules/qode-options.php:2289
+msgid "Background color"
+msgstr ""
+
+#: modules/qode-options.php:1486
+msgid "Transparency (From 0 to 1)"
+msgstr ""
+
+#: modules/qode-options.php:1492
+msgid "1st level menu style"
+msgstr ""
+
+#: modules/qode-options.php:1500
+#: modules/qode-options.php:1556
+#: modules/qode-options.php:1611
+#: modules/qode-options.php:1665
+#: modules/qode-options.php:1719
+#: modules/qode-options.php:1773
+msgid "Hover/Active color"
+msgstr ""
+
+#: modules/qode-options.php:1548
+msgid "2nd level menu style"
+msgstr ""
+
+#: modules/qode-options.php:1603
+msgid "3rd level menu style"
+msgstr ""
+
+#: modules/qode-options.php:1657
+msgid "Fixed menu"
+msgstr ""
+
+#: modules/qode-options.php:1711
+msgid "Sticky menu"
+msgstr ""
+
+#: modules/qode-options.php:1765
+msgid "Mobile menu style"
+msgstr ""
+
+#: modules/qode-options.php:1817
+msgid "Separator color"
+msgstr ""
+
+#: modules/qode-options.php:1833
+#: modules/qode-options.php:2823
+msgid "Title"
+msgstr ""
+
+#: modules/qode-options.php:1836
+msgid "Animate title area"
+msgstr ""
+
+#: modules/qode-options.php:1845
+msgid "Text shadow"
+msgstr ""
+
+#: modules/qode-options.php:1858
+msgid "Responsive title image"
+msgstr ""
+
+#: modules/qode-options.php:1865
+msgid "Parallax title image"
+msgstr ""
+
+#: modules/qode-options.php:1871
+#: modules/qode-options.php:1889
+msgid "Only if title image is not responsive"
+msgstr ""
+
+#: modules/qode-options.php:1875
+msgid "Title image"
+msgstr ""
+
+#: modules/qode-options.php:1881
+msgid "Title pattern overlay image"
+msgstr ""
+
+#: modules/qode-options.php:1887
+msgid "Title height (px)"
+msgstr ""
+
+#: modules/qode-options.php:1893
+msgid "Title position"
+msgstr ""
+
+#: modules/qode-options.php:1901
+msgid "Predefined title sizes"
+msgstr ""
+
+#: modules/qode-options.php:1903
+msgid "Small"
+msgstr ""
+
+#: modules/qode-options.php:1904
+msgid "Medium"
+msgstr ""
+
+#: modules/qode-options.php:1905
+msgid "Large"
+msgstr ""
+
+#: modules/qode-options.php:1910
+msgid "Footer"
+msgstr ""
+
+#: modules/qode-options.php:1912
+msgid "Uncovering footer"
+msgstr ""
+
+#: modules/qode-options.php:1923
+msgid "Footer in grid"
+msgstr ""
+
+#: modules/qode-options.php:1934
+msgid "Show footer top"
+msgstr ""
+
+#: modules/qode-options.php:1945
+msgid "Footer top columns"
+msgstr ""
+
+#: modules/qode-options.php:1952
+msgid "3(25%+25%+50%)"
+msgstr ""
+
+#: modules/qode-options.php:1953
+msgid "3(50%+25%+25%)"
+msgstr ""
+
+#: modules/qode-options.php:1960
+msgid "Show footer bottom"
+msgstr ""
+
+#: modules/qode-options.php:1972
+msgid "Footer separator color"
+msgstr ""
+
+#: modules/qode-options.php:1981
+msgid "Footer top colors"
+msgstr ""
+
+#: modules/qode-options.php:1984
+msgid "Title color"
+msgstr ""
+
+#: modules/qode-options.php:1989
+#: modules/qode-options.php:2014
+msgid "Text color"
+msgstr ""
+
+#: modules/qode-options.php:1994
+msgid "Link color"
+msgstr ""
+
+#: modules/qode-options.php:1999
+msgid "Link hover color"
+msgstr ""
+
+#: modules/qode-options.php:2011
+msgid "Footer bottom colors"
+msgstr ""
+
+#: modules/qode-options.php:2029
+msgid "Elements"
+msgstr ""
+
+#: modules/qode-options.php:2033
+msgid "Separator"
+msgstr ""
+
+#: modules/qode-options.php:2043
+msgid "Thickness (px)"
+msgstr ""
+
+#: modules/qode-options.php:2047
+msgid "Top margin (px)"
+msgstr ""
+
+#: modules/qode-options.php:2051
+msgid "Bottom margin (px)"
+msgstr ""
+
+#: modules/qode-options.php:2056
+msgid "Buttons"
+msgstr ""
+
+#: modules/qode-options.php:2058
+msgid "Button style"
+msgstr ""
+
+#: modules/qode-options.php:2113
+msgid "Hover background color"
+msgstr ""
+
+#: modules/qode-options.php:2118
+msgid "Top gradient color"
+msgstr ""
+
+#: modules/qode-options.php:2123
+msgid "Bottom gradient color"
+msgstr ""
+
+#: modules/qode-options.php:2128
+#: modules/qode-options.php:2191
+msgid "Border color"
+msgstr ""
+
+#: modules/qode-options.php:2134
+msgid "Message box"
+msgstr ""
+
+#: modules/qode-options.php:2136
+msgid "Message box style"
+msgstr ""
+
+#: modules/qode-options.php:2198
+msgid "Message icon style"
+msgstr ""
+
+#: modules/qode-options.php:2211
+msgid "Blockquote"
+msgstr ""
+
+#: modules/qode-options.php:2213
+msgid "Blockquote style"
+msgstr ""
+
+#: modules/qode-options.php:2226
+#: modules/qode-options.php:2252
+msgid "Border Color"
+msgstr ""
+
+#: modules/qode-options.php:2231
+msgid "Quote Icon Color"
+msgstr ""
+
+#: modules/qode-options.php:2237
+msgid "Pricing Table"
+msgstr ""
+
+#: modules/qode-options.php:2239
+msgid "Pricing table style"
+msgstr ""
+
+#: modules/qode-options.php:2242
+msgid "Gradient Top Color"
+msgstr ""
+
+#: modules/qode-options.php:2247
+msgid "Gradient Bottom Color"
+msgstr ""
+
+#: modules/qode-options.php:2258
+msgid "Social Icon"
+msgstr ""
+
+#: modules/qode-options.php:2268
+msgid "Top Gradient Background Color"
+msgstr ""
+
+#: modules/qode-options.php:2273
+msgid "Bottom Gradient Background Color"
+msgstr ""
+
+#: modules/qode-options.php:2278
+msgid "Icon Border Color"
+msgstr ""
+
+#: modules/qode-options.php:2284
+msgid "Smooth Scroll"
+msgstr ""
+
+#: modules/qode-options.php:2286
+msgid "Smooth scroll style"
+msgstr ""
+
+#: modules/qode-options.php:2294
+msgid "Bar color"
+msgstr ""
+
+#: modules/qode-options.php:2304
+msgid "Side Area"
+msgstr ""
+
+#: modules/qode-options.php:2309
+msgid "Enable Side Area"
+msgstr ""
+
+#: modules/qode-options.php:2313
+#: modules/qode-options.php:2367
+msgid "yes"
+msgstr ""
+
+#: modules/qode-options.php:2314
+#: modules/qode-options.php:2368
+msgid "no"
+msgstr ""
+
+#: modules/qode-options.php:2320
+msgid "Side Area Title"
+msgstr ""
+
+#: modules/qode-options.php:2337
+msgid "Text Color"
+msgstr ""
+
+#: modules/qode-options.php:2346
+msgid "Title Color"
+msgstr ""
+
+#: modules/qode-options.php:2358
+msgid "Content Bottom Area"
+msgstr ""
+
+#: modules/qode-options.php:2363
+msgid "Enable Content Bottom Area"
+msgstr ""
+
+#: modules/qode-options.php:2374
+msgid "Content bottom sidebar to display"
+msgstr ""
+
+#: modules/qode-options.php:2393
+msgid "Content bottom in grid"
+msgstr ""
+
+#: modules/qode-options.php:2416
+msgid "Parallax"
+msgstr ""
+
+#: modules/qode-options.php:2421
+msgid "Parallax speed"
+msgstr ""
+
+#: modules/qode-options.php:2429
+msgid "Parallax on touch devices"
+msgstr ""
+
+#: modules/qode-options.php:2433
+msgid "on"
+msgstr ""
+
+#: modules/qode-options.php:2434
+msgid "off"
+msgstr ""
+
+#: modules/qode-options.php:2440
+msgid "Parallax min height (px)"
+msgstr ""
+
+#: modules/qode-options.php:2444
+msgid "Set min-height for last two stages"
+msgstr ""
+
+#: modules/qode-options.php:2455
+msgid "Portfolio single"
+msgstr ""
+
+#: modules/qode-options.php:2457
+msgid "Portfolio style"
+msgstr ""
+
+#: modules/qode-options.php:2471
+msgid "Portfolio Qode Like"
+msgstr ""
+
+#: modules/qode-options.php:2480
+msgid "Lightbox for single project"
+msgstr ""
+
+#: modules/qode-options.php:2491
+msgid "Number of columns for Portfolio gallery style"
+msgstr ""
+
+#: modules/qode-options.php:2495
+msgid "2 columns"
+msgstr ""
+
+#: modules/qode-options.php:2496
+msgid "3 columns"
+msgstr ""
+
+#: modules/qode-options.php:2497
+msgid "4 columns"
+msgstr ""
+
+#: modules/qode-options.php:2503
+msgid "Portfolio single slug"
+msgstr ""
+
+#: modules/qode-options.php:2507
+msgid "When you put the slug for portfolio page, you should navigate to "
+msgstr ""
+
+#: modules/qode-options.php:2507
+msgid " and click save button."
+msgstr ""
+
+#: modules/qode-options.php:2507
+msgid "Settings -> Permalinks"
+msgstr ""
+
+#: modules/qode-options.php:2515
+msgid "Blog"
+msgstr ""
+
+#: modules/qode-options.php:2520
+msgid "Quote/Link box color"
+msgstr ""
+
+#: modules/qode-options.php:2526
+msgid "Blog list"
+msgstr ""
+
+#: modules/qode-options.php:2528
+msgid "Pagination"
+msgstr ""
+
+#: modules/qode-options.php:2537
+msgid "Choose blog layout"
+msgstr ""
+
+#: modules/qode-options.php:2540
+msgid "Blog Large Image"
+msgstr ""
+
+#: modules/qode-options.php:2541
+msgid "Blog Masonry"
+msgstr ""
+
+#: modules/qode-options.php:2542
+msgid "Blog Large Image Whole Post"
+msgstr ""
+
+#: modules/qode-options.php:2543
+msgid "Blog Small Image"
+msgstr ""
+
+#: modules/qode-options.php:2548
+msgid "Blog sidebar"
+msgstr ""
+
+#: modules/qode-options.php:2558
+msgid "For category list"
+msgstr ""
+
+#: modules/qode-options.php:2562
+msgid "Hide comments"
+msgstr ""
+
+#: modules/qode-options.php:2571
+msgid "Blog Qode Like"
+msgstr ""
+
+#: modules/qode-options.php:2580
+msgid "Page Range For Pagination"
+msgstr ""
+
+#: modules/qode-options.php:2586
+msgid "Number of words"
+msgstr ""
+
+#: modules/qode-options.php:2589
+msgid "Number of words in blog listing"
+msgstr ""
+
+#: modules/qode-options.php:2593
+msgid "Number of words in masonry blog template"
+msgstr ""
+
+#: modules/qode-options.php:2599
+msgid "Number of words in large image blog template"
+msgstr ""
+
+#: modules/qode-options.php:2604
+msgid "Number of words in small image blog template"
+msgstr ""
+
+#: modules/qode-options.php:2609
+msgid "Blog single"
+msgstr ""
+
+#: modules/qode-options.php:2611
+msgid "Sidebar layout"
+msgstr ""
+
+#: modules/qode-options.php:2624
+msgid "Sidebar to display"
+msgstr ""
+
+#: modules/qode-options.php:2643
+msgid "Show Blog Author"
+msgstr ""
+
+#: modules/qode-options.php:2656
+msgid "Contact page"
+msgstr ""
+
+#: modules/qode-options.php:2661
+msgid "Mail send to"
+msgstr ""
+
+#: modules/qode-options.php:2667
+msgid "Enable Contact Form"
+msgstr ""
+
+#: modules/qode-options.php:2676
+msgid "Hide Website Field"
+msgstr ""
+
+#: modules/qode-options.php:2685
+msgid "Email From"
+msgstr ""
+
+#: modules/qode-options.php:2691
+msgid "Email Subject"
+msgstr ""
+
+#: modules/qode-options.php:2697
+msgid "Use reCaptcha"
+msgstr ""
+
+#: modules/qode-options.php:2706
+msgid "ReCaptcha public key"
+msgstr ""
+
+#: modules/qode-options.php:2713
+msgid "ReCaptcha private key"
+msgstr ""
+
+#: modules/qode-options.php:2719
+msgid "Heading above contact form"
+msgstr ""
+
+#: modules/qode-options.php:2725
+msgid "Enable Google Map"
+msgstr ""
+
+#: modules/qode-options.php:2735
+msgid "Pin image"
+msgstr ""
+
+#: modules/qode-options.php:2744
+msgid "Google map address"
+msgstr ""
+
+#: modules/qode-options.php:2747
+msgid "Example (Louvre Museum, Paris, France)"
+msgstr ""
+
+#: modules/qode-options.php:2751
+msgid "Google map address 2"
+msgstr ""
+
+#: modules/qode-options.php:2757
+msgid "Google map address 3"
+msgstr ""
+
+#: modules/qode-options.php:2763
+msgid "Google map address 4"
+msgstr ""
+
+#: modules/qode-options.php:2769
+msgid "Google map address 5"
+msgstr ""
+
+#: modules/qode-options.php:2775
+msgid "Google map zoom"
+msgstr ""
+
+#: modules/qode-options.php:2781
+msgid "Google map height (px)"
+msgstr ""
+
+#: modules/qode-options.php:2787
+msgid "Google map style"
+msgstr ""
+
+#: modules/qode-options.php:2796
+msgid "Google map color"
+msgstr ""
+
+#: modules/qode-options.php:2805
+msgid "Google map scroll on mouse wheel"
+msgstr ""
+
+#: modules/qode-options.php:2818
+msgid "404 page"
+msgstr ""
+
+#: modules/qode-options.php:2829
+msgid "Subtitle"
+msgstr ""
+
+#: modules/qode-options.php:2841
+msgid "Back to home label"
+msgstr ""
+
+#: modules/qode-options.php:2850
+msgid "Social"
+msgstr ""
+
+#: modules/qode-options.php:2855
+msgid "Enable Social Share"
+msgstr ""
+
+#: modules/qode-options.php:2864
+#: modules/shortcodes/shortcodes.php:2712
+msgid "Facebook"
+msgstr ""
+
+#: modules/qode-options.php:2867
+msgid "Enable Facebook"
+msgstr ""
+
+#: modules/qode-options.php:2874
+#: modules/qode-options.php:2891
+#: modules/qode-options.php:2912
+#: modules/qode-options.php:2929
+msgid "Share Icon"
+msgstr ""
+
+#: modules/qode-options.php:2881
+#: modules/shortcodes/shortcodes.php:2730
+msgid "Twitter"
+msgstr ""
+
+#: modules/qode-options.php:2884
+msgid "Enable Twitter"
+msgstr ""
+
+#: modules/qode-options.php:2896
+msgid "Via"
+msgstr ""
+
+#: modules/qode-options.php:2902
+msgid "Google +"
+msgstr ""
+
+#: modules/qode-options.php:2905
+msgid "Enable Google +"
+msgstr ""
+
+#: modules/qode-options.php:2919
+#: modules/shortcodes/shortcodes.php:2754
+msgid "LinkedIn"
+msgstr ""
+
+#: modules/qode-options.php:2922
+msgid "Enable LinkedIn"
+msgstr ""
+
+#: modules/qode-options.php:2936
+#: modules/shortcodes/shortcodes.php:2766
+msgid "Tumblr"
+msgstr ""
+
+#: modules/qode-options.php:2939
+msgid "Enable Tumblr"
+msgstr ""
+
+#: modules/qode-options.php:2946
+msgid "Tumblr Icon"
+msgstr ""
+
+#: modules/qode-options.php:2953
+#: modules/shortcodes/shortcodes.php:2779
+msgid "Pinterest"
+msgstr ""
+
+#: modules/qode-options.php:2956
+msgid "Enable Pinterest"
+msgstr ""
+
+#: modules/qode-options.php:2963
+msgid "Pinterest Icon"
+msgstr ""
+
+#: modules/qode-options.php:2970
+#: modules/shortcodes/shortcodes.php:2792
+msgid "VK"
+msgstr ""
+
+#: modules/qode-options.php:2973
+msgid "Enable VK"
+msgstr ""
+
+#: modules/qode-options.php:2980
+msgid "VK Icon"
+msgstr ""
+
+#: modules/qode-options.php:2987
+msgid "Show For"
+msgstr ""
+
+#: modules/shortcodes/shortcodes.php:1385
+msgid "in"
+msgstr ""
+
+#: modules/shortcodes/shortcodes.php:1396
+msgid "No comment"
+msgstr ""
+
+#: modules/shortcodes/shortcodes.php:1399
+msgid "Comment"
+msgstr ""
+
+#: modules/shortcodes/shortcodes.php:1402
+msgid "Comments"
+msgstr ""
+
+#: modules/shortcodes/shortcodes.php:1863
+msgid "Filter"
+msgstr ""
+
+#: modules/shortcodes/shortcodes.php:2046
+#: modules/shortcodes/shortcodes.php:2185
+#: modules/shortcodes/shortcodes.php:3148
+#: modules/shortcodes/shortcodes.php:3574
+#: modules/shortcodes/shortcodes.php:3666
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: modules/shortcodes/shortcodes.php:2058
+msgid "Show more"
+msgstr ""
+
+#: modules/shortcodes/shortcodes.php:2689
+msgid "Share"
+msgstr ""
+
+#: modules/shortcodes/shortcodes.php:2696
+#: modules/shortcodes/shortcodes.php:2699
+msgid "Share on Facebook"
+msgstr ""
+
+#: modules/shortcodes/shortcodes.php:2742
+msgid "Google+"
+msgstr ""
+
+#: modules/shortcodes/shortcodes.php:3499
+msgid "No video playback capabilities"
+msgstr ""
+
+#: modules/shortcodes/shortcodes.php:3499
+msgid "Video thumb"
+msgstr ""
+
+#: modules/shortcodes/shortcodes.php:3554
+msgid "Sorry, no slides matched your criteria."
+msgstr ""
