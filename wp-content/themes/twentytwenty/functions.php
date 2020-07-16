@@ -761,3 +761,6 @@ function twentytwenty_get_elements_array() {
 }
 echo "TESTING";
 echo "D";
+
+echo "D WordPress";
+
