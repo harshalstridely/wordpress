@@ -764,7 +764,7 @@ echo "D";
 
 echo "C WordPress";
 echo "D WordPress";
-
+echo "CD Combine WordPress";
 function add_to_data(){
 		return "Hello World";
 }	
