@@ -771,3 +771,5 @@ function add_to_data(){
 		return "Hello World";
 }	
 add_action("init","add_to_data");
+
+echo "Add New Branch Child";
