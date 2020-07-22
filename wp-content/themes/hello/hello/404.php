@@ -4,7 +4,13 @@
  *
  * @link https://codex.wordpress.org/Creating_an_Error_404_Page
  *
+<<<<<<< HEAD:wp-content/themes/hello/hello/404.php
  * @package hello
+||||||| merged common ancestors:wp-content/themes/hundred/hundred/404.php
+ * @package hundred
+=======
+ * @package hello 
+>>>>>>> f991bcc9d4675cbe9ad320d9a93acbb410efbdf5:wp-content/themes/hundred/hundred/404.php
  */
 
 get_header();
